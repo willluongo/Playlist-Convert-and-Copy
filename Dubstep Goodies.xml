@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2012-03-29T15:21:51Z</date>
+	<key>Application Version</key><string>10.6</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/Users/will/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>D2FC6861FC16E359</string>
+	<key>Tracks</key>
+	<dict>
+		<key>11949</key>
+		<dict>
+			<key>Track ID</key><integer>11949</integer>
+			<key>Name</key><string>What You Talking About!?</string>
+			<key>Artist</key><string>Redlight</string>
+			<key>Album Artist</key><string>Ministry of Sound</string>
+			<key>Album</key><string>The Sound Of Dubstep 2011 [Explicit]</string>
+			<key>Genre</key><string>Dance &#38; DJ</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6285438</integer>
+			<key>Total Time</key><integer>199575</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>24</integer>
+			<key>Date Modified</key><date>2011-04-26T02:34:32Z</date>
+			<key>Date Added</key><date>2011-04-26T02:34:32Z</date>
+			<key>Bit Rate</key><integer>244</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 220532834</string>
+			<key>Play Count</key><integer>17</integer>
+			<key>Play Date</key><integer>3415858651</integer>
+			<key>Play Date UTC</key><date>2012-03-29T13:37:31Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Sound Of Dubstep 2011 [Explicit]</string>
+			<key>Persistent ID</key><string>5F12D7F0D4C73656</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/will/Music/iTunes/iTunes%20Media/Music/Ministry%20of%20Sound/The%20Sound%20Of%20Dubstep%202011%20%5BExplicit%5D/08%20What%20You%20Talking%20About!_.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11955</key>
+		<dict>
+			<key>Track ID</key><integer>11955</integer>
+			<key>Name</key><string>Swagga</string>
+			<key>Artist</key><string>Excision</string>
+			<key>Album Artist</key><string>Ministry of Sound</string>
+			<key>Album</key><string>The Sound Of Dubstep 2011 [Explicit]</string>
+			<key>Genre</key><string>Dance &#38; DJ</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9571791</integer>
+			<key>Total Time</key><integer>332617</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>24</integer>
+			<key>Date Modified</key><date>2011-04-26T02:35:21Z</date>
+			<key>Date Added</key><date>2011-04-26T02:35:21Z</date>
+			<key>Bit Rate</key><integer>225</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 220532837</string>
+			<key>Play Count</key><integer>42</integer>
+			<key>Play Date</key><integer>3415860292</integer>
+			<key>Play Date UTC</key><date>2012-03-29T14:04:52Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Sound Of Dubstep 2011 [Explicit]</string>
+			<key>Persistent ID</key><string>BCD5287303B14208</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/will/Music/iTunes/iTunes%20Media/Music/Ministry%20of%20Sound/The%20Sound%20Of%20Dubstep%202011%20%5BExplicit%5D/11%20Swagga.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11957</key>
+		<dict>
+			<key>Track ID</key><integer>11957</integer>
+			<key>Name</key><string>Machine Gun (16bit Remix)</string>
+			<key>Artist</key><string>Noisia</string>
+			<key>Album Artist</key><string>Ministry of Sound</string>
+			<key>Album</key><string>The Sound Of Dubstep 2011 [Explicit]</string>
+			<key>Genre</key><string>Dance &#38; DJ</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10679795</integer>
+			<key>Total Time</key><integer>360071</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>24</integer>
+			<key>Date Modified</key><date>2011-04-26T02:35:36Z</date>
+			<key>Date Added</key><date>2011-04-26T02:35:36Z</date>
+			<key>Bit Rate</key><integer>233</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 220532838</string>
+			<key>Play Count</key><integer>48</integer>
+			<key>Play Date</key><integer>3415859959</integer>
+			<key>Play Date UTC</key><date>2012-03-29T13:59:19Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Sound Of Dubstep 2011 [Explicit]</string>
+			<key>Persistent ID</key><string>1DB5CC9F4DEB01FB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/will/Music/iTunes/iTunes%20Media/Music/Ministry%20of%20Sound/The%20Sound%20Of%20Dubstep%202011%20%5BExplicit%5D/12%20Machine%20Gun%20(16bit%20Remix).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12097</key>
+		<dict>
+			<key>Track ID</key><integer>12097</integer>
+			<key>Name</key><string>Scary Monsters And Nice Sprites (Noisa Remix)</string>
+			<key>Artist</key><string>Skrillex</string>
+			<key>Album Artist</key><string>Skrillex</string>
+			<key>Album</key><string>Scary Monsters And Nice Sprites EP [Explicit]</string>
+			<key>Genre</key><string>Dance &#38; DJ</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6822499</integer>
+			<key>Total Time</key><integer>204225</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2011-05-17T22:30:09Z</date>
+			<key>Date Added</key><date>2011-05-17T22:30:10Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 220172739</string>
+			<key>Play Count</key><integer>47</integer>
+			<key>Play Date</key><integer>3415860960</integer>
+			<key>Play Date UTC</key><date>2012-03-29T14:16:00Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2366530B4755E09C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/will/Music/iTunes/iTunes%20Media/Music/Skrillex/Scary%20Monsters%20And%20Nice%20Sprites%20EP%20%5BExplicit%5D/07%20Scary%20Monsters%20And%20Nice%20Sprites%20(Noisa%20Remix).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12101</key>
+		<dict>
+			<key>Track ID</key><integer>12101</integer>
+			<key>Name</key><string>Kill Everybody (Bare Noize Remix)</string>
+			<key>Artist</key><string>Skrillex</string>
+			<key>Album Artist</key><string>Skrillex</string>
+			<key>Album</key><string>Scary Monsters And Nice Sprites EP [Explicit]</string>
+			<key>Genre</key><string>Dance &#38; DJ</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9285091</integer>
+			<key>Total Time</key><integer>281182</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2011-05-17T22:30:34Z</date>
+			<key>Date Added</key><date>2011-05-17T22:30:34Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 220172741</string>
+			<key>Play Count</key><integer>49</integer>
+			<key>Play Date</key><integer>3415521297</integer>
+			<key>Play Date UTC</key><date>2012-03-25T15:54:57Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2011-12-01T01:05:51Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4383229959CB3EA3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/will/Music/iTunes/iTunes%20Media/Music/Skrillex/Scary%20Monsters%20And%20Nice%20Sprites%20EP%20%5BExplicit%5D/09%20Kill%20Everybody%20(Bare%20Noize%20Remix).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12435</key>
+		<dict>
+			<key>Track ID</key><integer>12435</integer>
+			<key>Name</key><string>Doomsday</string>
+			<key>Artist</key><string>Nero</string>
+			<key>Album Artist</key><string>Nero</string>
+			<key>Composer</key><string>John Adams</string>
+			<key>Album</key><string>Welcome Reality</string>
+			<key>Genre</key><string>Dance &#38; DJ</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8286442</integer>
+			<key>Total Time</key><integer>251715</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-08-17T18:46:22Z</date>
+			<key>Date Added</key><date>2011-08-18T02:08:54Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 224209479</string>
+			<key>Play Count</key><integer>56</integer>
+			<key>Play Date</key><integer>3415521549</integer>
+			<key>Play Date UTC</key><date>2012-03-25T15:59:09Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2EB02E7DFB61B93B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/will/Music/iTunes/iTunes%20Media/Music/Nero/Welcome%20Reality/02%20Doomsday.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12439</key>
+		<dict>
+			<key>Track ID</key><integer>12439</integer>
+			<key>Name</key><string>Guilt</string>
+			<key>Artist</key><string>Nero</string>
+			<key>Album Artist</key><string>Nero</string>
+			<key>Composer</key><string>Alana Watson</string>
+			<key>Album</key><string>Welcome Reality</string>
+			<key>Genre</key><string>Dance &#38; DJ</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9325487</integer>
+			<key>Total Time</key><integer>284186</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-08-17T18:49:23Z</date>
+			<key>Date Added</key><date>2011-08-18T02:08:54Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 224209481</string>
+			<key>Play Count</key><integer>35</integer>
+			<key>Play Date</key><integer>3415859245</integer>
+			<key>Play Date UTC</key><date>2012-03-29T13:47:25Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>211D6078F94DEDEF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/will/Music/iTunes/iTunes%20Media/Music/Nero/Welcome%20Reality/04%20Guilt.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12451</key>
+		<dict>
+			<key>Track ID</key><integer>12451</integer>
+			<key>Name</key><string>Crush On You</string>
+			<key>Artist</key><string>Nero</string>
+			<key>Album Artist</key><string>Nero</string>
+			<key>Composer</key><string>Jerry Knight</string>
+			<key>Album</key><string>Welcome Reality</string>
+			<key>Genre</key><string>Dance &#38; DJ</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8244660</integer>
+			<key>Total Time</key><integer>250409</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-08-17T18:56:20Z</date>
+			<key>Date Added</key><date>2011-08-18T02:08:54Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 224209487</string>
+			<key>Play Count</key><integer>28</integer>
+			<key>Play Date</key><integer>3415858168</integer>
+			<key>Play Date UTC</key><date>2012-03-29T13:29:28Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2011-10-14T13:22:11Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BB714C1D7BC537F7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/will/Music/iTunes/iTunes%20Media/Music/Nero/Welcome%20Reality/10%20Crush%20On%20You.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12787</key>
+		<dict>
+			<key>Track ID</key><integer>12787</integer>
+			<key>Name</key><string>Bass Cannon</string>
+			<key>Artist</key><string>Flux Pavilion</string>
+			<key>Album Artist</key><string>Flux Pavilion</string>
+			<key>Album</key><string>Bass Cannon - Single</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>10757241</integer>
+			<key>Total Time</key><integer>310410</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2012-03-07T14:01:07Z</date>
+			<key>Date Added</key><date>2011-09-17T02:45:56Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>27</integer>
+			<key>Play Date</key><integer>3415522946</integer>
+			<key>Play Date UTC</key><date>2012-03-25T16:22:26Z</date>
+			<key>Release Date</key><date>2011-03-19T07:00:00Z</date>
+			<key>Normalization</key><integer>9486</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3075BF6A466BEA82</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/will/Music/iTunes/iTunes%20Media/Music/Flux%20Pavilion/Bass%20Cannon%20-%20Single/01%20Bass%20Cannon.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12789</key>
+		<dict>
+			<key>Track ID</key><integer>12789</integer>
+			<key>Name</key><string>Wildstyle Method</string>
+			<key>Artist</key><string>Bassnectar</string>
+			<key>Album Artist</key><string>Bassnectar</string>
+			<key>Album</key><string>Wildstyle</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>12181498</integer>
+			<key>Total Time</key><integer>354625</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2012-03-07T14:01:07Z</date>
+			<key>Date Added</key><date>2011-09-17T03:08:41Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>32</integer>
+			<key>Play Date</key><integer>3415859599</integer>
+			<key>Play Date UTC</key><date>2012-03-29T13:53:19Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2011-12-01T00:36:10Z</date>
+			<key>Release Date</key><date>2010-10-19T07:00:00Z</date>
+			<key>Normalization</key><integer>3829</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>056F11F41F5F3879</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/will/Music/iTunes/iTunes%20Media/Music/Bassnectar/Wildstyle/02%20Wildstyle%20Method.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13343</key>
+		<dict>
+			<key>Track ID</key><integer>13343</integer>
+			<key>Name</key><string>Tetris</string>
+			<key>Artist</key><string>Doctor P</string>
+			<key>Album Artist</key><string>Doctor P</string>
+			<key>Album</key><string>Tetris - Single</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>7897679</integer>
+			<key>Total Time</key><integer>219242</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2012-03-07T14:01:16Z</date>
+			<key>Date Added</key><date>2011-11-30T23:45:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3415638824</integer>
+			<key>Play Date UTC</key><date>2012-03-27T00:33:44Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2012-01-12T01:44:30Z</date>
+			<key>Release Date</key><date>2011-06-13T07:00:00Z</date>
+			<key>Normalization</key><integer>16363</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>AD222D6DDD669A31</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/will/Music/iTunes/iTunes%20Media/Music/Doctor%20P/Tetris%20-%20Single/01%20Tetris.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13345</key>
+		<dict>
+			<key>Track ID</key><integer>13345</integer>
+			<key>Name</key><string>Ginger Pubes</string>
+			<key>Artist</key><string>Cookie Monsta</string>
+			<key>Album Artist</key><string>Cookie Monsta</string>
+			<key>Album</key><string>Ginger Pubes / Blurgh! - Single</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>10637810</integer>
+			<key>Total Time</key><integer>309554</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>2</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2012-03-07T14:01:16Z</date>
+			<key>Date Added</key><date>2011-11-30T23:47:35Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3415858961</integer>
+			<key>Play Date UTC</key><date>2012-03-29T13:42:41Z</date>
+			<key>Release Date</key><date>2010-07-19T07:00:00Z</date>
+			<key>Normalization</key><integer>5608</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2F3E07A75BFD3AC7</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/will/Music/iTunes/iTunes%20Media/Music/Cookie%20Monsta/Ginger%20Pubes%20_%20Blurgh!%20-%20Single/01%20Ginger%20Pubes.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13347</key>
+		<dict>
+			<key>Track ID</key><integer>13347</integer>
+			<key>Name</key><string>Get Up! (feat. Skrillex)</string>
+			<key>Artist</key><string>Korn</string>
+			<key>Album Artist</key><string>Korn</string>
+			<key>Album</key><string>Get Up! (feat. Skrillex) - Single</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8306298</integer>
+			<key>Total Time</key><integer>223878</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2012-03-07T14:01:16Z</date>
+			<key>Date Added</key><date>2011-12-02T20:16:51Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3415860756</integer>
+			<key>Play Date UTC</key><date>2012-03-29T14:12:36Z</date>
+			<key>Release Date</key><date>2011-05-06T07:00:00Z</date>
+			<key>Normalization</key><integer>9581</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B5A0768259EB6C37</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/will/Music/iTunes/iTunes%20Media/Music/Korn/Get%20Up!%20(feat.%20Skrillex)%20-%20Single/01%20Get%20Up!%20(feat.%20Skrillex).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13369</key>
+		<dict>
+			<key>Track ID</key><integer>13369</integer>
+			<key>Name</key><string>Not Another UKF Dubstep Tutorial</string>
+			<key>Artist</key><string>Dubba Jonny</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>UKF Dubstep 2011</string>
+			<key>Genre</key><string>Dance &#38; DJ</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>8433472</integer>
+			<key>Total Time</key><integer>240000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-12-13T05:27:55Z</date>
+			<key>Date Added</key><date>2011-12-12T14:08:08Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 225984482</string>
+			<key>Play Count</key><integer>17</integer>
+			<key>Play Date</key><integer>3415860532</integer>
+			<key>Play Date UTC</key><date>2012-03-29T14:08:52Z</date>
+			<key>Normalization</key><integer>2164</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>25B4466AA1DA433F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/will/Music/iTunes/iTunes%20Media/Music/Various%20Artists/UKF%20Dubstep%202011/02%20Not%20Another%20UKF%20Dubstep%20Tutorial.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13391</key>
+		<dict>
+			<key>Track ID</key><integer>13391</integer>
+			<key>Name</key><string>Wondering (Dirtyphonics Remix)</string>
+			<key>Artist</key><string>Does It Offend You, Yeah!</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>UKF Dubstep 2011</string>
+			<key>Genre</key><string>Dance &#38; DJ</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>10333032</integer>
+			<key>Total Time</key><integer>283557</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-12-15T00:47:34Z</date>
+			<key>Date Added</key><date>2011-12-12T14:09:39Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 225984491</string>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3415858452</integer>
+			<key>Play Date UTC</key><date>2012-03-29T13:34:12Z</date>
+			<key>Normalization</key><integer>5453</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D9A2564B68F4D857</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/will/Music/iTunes/iTunes%20Media/Music/Various%20Artists/UKF%20Dubstep%202011/11%20Wondering%20(Dirtyphonics%20Remix).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14081</key>
+		<dict>
+			<key>Track ID</key><integer>14081</integer>
+			<key>Name</key><string>Louder (Doctor P &#38; Flux Pavillion Remix)</string>
+			<key>Artist</key><string>DJ Fresh feat. Sian Evans</string>
+			<key>Album Artist</key><string>DJ Fresh feat. Sian Evans</string>
+			<key>Album</key><string>Louder (Doctor P &#38; Flux Pavillion Remix)</string>
+			<key>Genre</key><string>Dance &#38; DJ</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>8288585</integer>
+			<key>Total Time</key><integer>235519</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2012-03-19T20:26:01Z</date>
+			<key>Date Added</key><date>2012-03-19T19:34:37Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 223542618</string>
+			<key>Play Count</key><integer>22</integer>
+			<key>Play Date</key><integer>3415857918</integer>
+			<key>Play Date UTC</key><date>2012-03-29T13:25:18Z</date>
+			<key>Normalization</key><integer>15429</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4AE72941F270F0C3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/will/Music/iTunes/iTunes%20Media/Music/DJ%20Fresh%20feat.%20Sian%20Evans/Louder%20(Doctor%20P%20&#38;%20Flux%20Pavillion%20Remix)/01%20Louder%20(Doctor%20P%20&#38;%20Flux%20Pavillion%20Remix).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Dubstep Goodies</string>
+			<key>Playlist ID</key><integer>40807</integer>
+			<key>Playlist Persistent ID</key><string>3D583440C7E6F8CB</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>14081</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12451</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13391</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11949</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13345</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12439</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12789</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11957</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11955</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13369</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13347</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12097</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12787</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12435</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13343</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12101</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
