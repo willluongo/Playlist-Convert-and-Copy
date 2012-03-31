@@ -1,10 +1,11 @@
-Playlist Convert and Copy (PCAC)˝˝
+Playlist Convert and Copy (PCAC)
 ================================
 
-*NOTE* This requires an installation of ffmpeg already added to your path, as well as the plist gem
+*NOTE:* This requires an installation of ffmpeg already added to your path, as well as the plist gem
 
-
-**Playlist Convert and Copy**
+License:
+--------
+*Playlist Convert and Copy*
 Copyright (c) 2012 Will Luongo
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
