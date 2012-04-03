@@ -47,7 +47,7 @@ result["Tracks"].each do |wat, value|
   # pulls the extension from the file and removes the . from it
   extension = File.extname(fily).split('.').last
   # takes out any non-word (AZ10-_) character and replaces the extension with mp3 for the target
-  # TODO add directory functionality 
+  # TODO add directory functionality
   puts "Encoding: #{target_file = fily.split('/').last.gsub(/\W+/,'').gsub(extension,".mp3")}"
   # checks to see if the file exists... if not
   unless File.exists?(target_file)
