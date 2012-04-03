@@ -31,8 +31,8 @@ begin
     puts optparse
     exit
   end
-rescue OptionParser::InvalidOption, OptionParser::MissingArgument
-  puts $!.to_s
+rescue OptionParser::InvalidOption, OptionParser::MissingArgument => e
+  puts e
   puts optparse
   exit
 end
