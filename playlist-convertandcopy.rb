@@ -10,7 +10,7 @@ require "URI"
 
 #this block parses the options and stores them in the options hash
 options = {}
-options[:directory] = ''
+options[:target] = './'
 optparse = OptionParser.new do |opts|
   opts.banner = "Usage: #{$0} options"
   opts.on("-l", "--playlist PLAYLIST", "Specify playlist for conversion (REQUIRED)") do |playlist|
@@ -39,25 +39,29 @@ end
 
 # Load specified PList formatted XML playlist into a more managable array
 result = Plist::parse_xml(options[:playlist])
-
-# iterates through each track in the playlist
-result["Tracks"].each do |wat, value|
-  # replaces the URI encoding with appropriate whitespace and characters, and fixes the path
-  fily = URI.decode(value["Location"].gsub("file://localhost",""))
-  # pulls the extension from the file and removes the . from it
-  extension = File.extname(fily).split('.').last
-  # takes out any non-word (AZ10-_) character and replaces the extension with mp3 for the target
-  # TODO add directory functionality
-  puts "Encoding: #{target_file = fily.split('/').last.gsub(/\W+/,'').gsub(extension,".mp3")}"
-  # checks to see if the file exists... if not
-  unless File.exists?(target_file)
-    # reencode the file to the new name and directory
-    command = "ffmpeg -i \"#{fily}\" -ab 256k #{target_file}"
-    # captures output from our command
-    stdin, stdout, stderr = Open3.popen3(command)
-    puts stdout.readlines
-    puts stderr.readlines
-  else
-    puts "File already exists."
+unless File.directory? options[:target]
+  puts "Target directory \"#{options[:target]}\" does not exist."
+else
+  Dir.chdir options[:target] do
+    # iterates through each track in the playlist
+    result["Tracks"].each do |wat, value|
+      # replaces the URI encoding with appropriate whitespace and characters, and fixes the path
+      fily = URI.decode(value["Location"].gsub("file://localhost",""))
+      # pulls the extension from the file and removes the . from it
+      extension = File.extname(fily).split('.').last
+      # takes out any non-word (AZ10-_) character and replaces the extension with mp3 for the target
+      puts "Encoding: #{options[:target]}#{target_file = fily.split('/').last.gsub(/\W+/,'').gsub(extension,".mp3")}"
+      # checks to see if the file exists... if not
+      unless File.exists?(target_file)
+        # reencode the file to the new name and directory
+        command = "ffmpeg -i \"#{fily}\" -ab 256k #{target_file}"
+        # captures output from our command
+        stdin, stdout, stderr = Open3.popen3(command)
+        puts stdout.readlines
+        puts stderr.readlines
+      else
+        puts "File already exists."
+      end
+    end
   end
 end
